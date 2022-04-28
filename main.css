@@ -1,3 +1,8 @@
 div {
   background: red;
 }
+
+p {
+  background: blue;
+  font-size: 2rem;
+}
